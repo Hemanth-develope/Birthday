@@ -1,0 +1,36 @@
+body{
+  background-color: #fde8cd;
+  margin: 0;
+  text-align: center;
+}
+h1{
+  margin: 0;
+  font-family: sans-serif;
+}
+.c1{
+  font-family: 'Sacramento', sans-serif;
+}
+.top{
+  position: relative;
+  padding-top: 100px;
+}
+.tp{
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+.bt{
+  position: absolute;
+  left: 400px;
+}
+.i1{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+}
+.i2{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+    left: 100px;
+  }
